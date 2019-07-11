@@ -41,21 +41,21 @@ Users can:
 - Select preset information/scenarios that could be applicable to the user.
 - See a suggested limit if the user wants to limit their intake for some time.
 
-Team 4 - Joshua Fitzsimmons, Shannon Bengel. Ronald Lee
+#### Team 4 - Joshua Fitzsimmons, Shannon Bengel. Ronald Lee
 This project is designed to inform viewers of the expected daily activity of the YouTuber’s they are subscribed to, while letting YouTuber’s have the ability to set a schedule for their activity to let their subscribers know what to expect.
 
 Requirements
 Users can
-•	Register.
-•	Login/Logout.
-•	Recover their password.
-o	Email feature.
-•	Upload images for their icons and video thumbnails. 
-•	Be viewers who will be able to subscribe to YouTuber’s
-•	Be viewers who will be emailed when the YouTuber’s they are subscribed to upload a video.
-•	Be YouTuber’s who will be able to create their own update schedule. 
-•	Be YouTuber’s who will be able to send messages to their subscribed viewer’s messages. 
-•	(Optional)Be viewers who will be able to set the time of day at which they will be emailed their subscribed YouTuber’s scheduled videos. 
+*	Register.
+*	Login/Logout.
+*	Recover their password.
+*	Email feature.
+*	Upload images for their icons and video thumbnails. 
+*	Be viewers who will be able to subscribe to YouTuber’s
+*	Be viewers who will be emailed when the YouTuber’s they are subscribed to upload a video.
+*	Be YouTuber’s who will be able to create their own update schedule. 
+*	Be YouTuber’s who will be able to send messages to their subscribed viewer’s messages. 
+*	(Optional)Be viewers who will be able to set the time of day at which they will be emailed their subscribed YouTuber’s scheduled videos. 
 
-Team 5 - Sara/ John / Fareed
+#### Team 5 - Sara/ John / Fareed
 
